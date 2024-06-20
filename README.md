@@ -29,7 +29,7 @@ Compare and contrast the Agile and Waterfall models of software development. Wha
 Agile and Waterfall represent contrasting approaches to software development. Agile is iterative and flexible, accommodating changes throughout development with continuous customer collaboration and frequent software releases. It prioritizes adaptability, teamwork, and working software over extensive documentation. In contrast, Waterfall follows a sequential, rigid process where each phase must be completed before moving to the next. It emphasizes thorough upfront planning, documentation, and stability in requirements. Waterfall is suitable for projects with well-defined, unchanging requirements, while Agile is preferred for dynamic projects requiring responsiveness to evolving needs and frequent customer feedback. Each model offers distinct advantages depending on project scope and requirements stability.
 Requirements Engineering:
 
-What is requirements engineering? Describe the process and its importance in the software development lifecycle.
+What is requirements engineering? Describe the process and its importance in the software development lifecycles.
 Software Design Principles:
 **Requirements Engineering** involves gathering, analyzing, documenting, and validating software requirements to ensure they are clear, complete, and feasible. It forms the foundation of software development by aligning stakeholder needs with project goals, managing risks, and enhancing communication. Throughout the software development lifecycle, effective requirements engineering mitigates errors, reduces rework, and supports traceability, ensuring that the final product meets stakeholder expectations and delivers value.
 
